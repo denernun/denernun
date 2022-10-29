@@ -18,10 +18,11 @@
 </div>
 <br>
 <div id="header" align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denernun)](https://github.com/denernun/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=denernun" alt=""/>
 </div>
+<br>
 <div id="header" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denernun&layout=compact" alt=""/>
 </div>
 <br>
 <div id="header" align="center">
