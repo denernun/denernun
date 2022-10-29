@@ -18,6 +18,13 @@
 </div>
 <br>
 <div id="header" align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denernun)](https://github.com/denernun/github-readme-stats)
+</div>
+<div id="header" align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
+<div id="header" align="center">
   <a href="https://app.daily.dev/denernun">
     <img src="https://api.daily.dev/devcards/2f6af1dd451140208804e470f99eb893.png?r=5ec" width="400" alt="Dener Rocha's Dev Card"/>
   </a>
