@@ -21,10 +21,5 @@
     </p>
     <img src="https://komarev.com/ghpvc/?username=denernun&style=flat-square&color=blue" alt="" />
     <br>
-    <div id="header" align="center">
-      <a href="https://app.daily.dev/denernun">
-        <img src="https://api.daily.dev/devcards/2f6af1dd451140208804e470f99eb893.png?r=5ec" width="400" alt="Dener Rocha's Dev Card" />
-      </a>
-    </div>
   </article>
 </div>
